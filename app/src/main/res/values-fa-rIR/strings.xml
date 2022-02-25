@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">چند زبانگی</string>
+    <string name="title_activity_main">اکتیویتی اصلی</string>
+    <string name="navigation_drawer_open">باز کردن نویگیشن</string>
+    <string name="navigation_drawer_close">بستن نویگیشن</string>
+    <string name="nav_header_title">اندروید استدیو</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">عنوان نویگیشن</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="menu_home">خانه</string>
+    <string name="menu_gallery">گالری</string>
+    <string name="menu_slideshow">اسلاید</string>
+    <string name="body_home">این خانه است</string>
+    <string name="body_gallery">این گالری است</string>
+    <string name="body_slideshow">این اسلاید است</string>
+</resources>
